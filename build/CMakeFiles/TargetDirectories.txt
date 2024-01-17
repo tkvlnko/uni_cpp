@@ -1,0 +1,5 @@
+/Users/apple/Desktop/progs_cpp/uni_cpp/build/CMakeFiles/first_project.dir
+/Users/apple/Desktop/progs_cpp/uni_cpp/build/CMakeFiles/package.dir
+/Users/apple/Desktop/progs_cpp/uni_cpp/build/CMakeFiles/package_source.dir
+/Users/apple/Desktop/progs_cpp/uni_cpp/build/CMakeFiles/edit_cache.dir
+/Users/apple/Desktop/progs_cpp/uni_cpp/build/CMakeFiles/rebuild_cache.dir

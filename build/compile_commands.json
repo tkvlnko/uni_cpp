@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/apple/Desktop/progs_cpp/uni_cpp/build",
+  "command": "/usr/bin/clang++   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -o CMakeFiles/first_project.dir/main.cpp.o -c /Users/apple/Desktop/progs_cpp/uni_cpp/main.cpp",
+  "file": "/Users/apple/Desktop/progs_cpp/uni_cpp/main.cpp",
+  "output": "CMakeFiles/first_project.dir/main.cpp.o"
+}
+]
